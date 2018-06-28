@@ -1,0 +1,30 @@
+body{
+    font-family:Comic Sans MS, Gadget, Impact;
+    margin-left:10%;
+    background-color:rgba(153, 151, 238, 0.993);
+}
+
+img{
+    height:200px;
+    width:200px; 
+    margin-left:42%;
+    margin-right:42% 
+}
+
+.box-1{
+border:2px red solid;
+margin: 2%;
+padding-left: 360px;
+padding-right: 360px;
+}
+
+.box2{
+    border: 2px blue dashed;
+    margin: 2%;
+    padding-left: 360px;
+    padding-right: 360px;
+}
+
+.pimage{
+    padding-right:4%;
+}
